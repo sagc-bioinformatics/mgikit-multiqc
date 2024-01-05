@@ -1,0 +1,9 @@
+
+mgikit/__pycache__/*
+mgikit/.idea/*
+multiqc_mgikit_plugin.egg-info/*
+multiqc_mgikit_plugin.egg-info
+__pycache__/*
+__pycache__
+.idea/*
+.idea
