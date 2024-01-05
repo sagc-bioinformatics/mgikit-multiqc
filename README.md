@@ -52,5 +52,5 @@ section.
 
 For example:
 ```bash
-multiqc MGIKIT-examples/test/
+multiqc mgikit-examples/test/
 ```
